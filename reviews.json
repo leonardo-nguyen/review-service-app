@@ -1,0 +1,14 @@
+{
+  "reviews": [
+    {
+      "text": "Ok let go",
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "text": "Ok good service",
+      "rating": 8,
+      "id": 2
+    }
+  ]
+}
